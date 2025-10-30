@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "webpipeline"
+		},
+		"Sink_sqlDB_password": {
+			"value": ""
+		},
+		"linked_dev_connectionString": {
+			"value": ""
+		},
+		"Sink_sqlDB_properties_typeProperties_server": {
+			"value": "webapp84.database.windows.net"
+		},
+		"Sink_sqlDB_properties_typeProperties_database": {
+			"value": "webactivity"
+		},
+		"Sink_sqlDB_properties_typeProperties_userName": {
+			"value": "sap"
+		}
+	}
+}
