@@ -1,0 +1,9 @@
+{
+	"name": "devfactory84",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "10d0cb72-8273-40cf-828d-61cb52856c6e",
+		"tenantId": "a5077c2a-8335-472e-b2d9-1a34923165b0"
+	}
+}
